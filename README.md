@@ -74,6 +74,9 @@ npm run build
 
 <p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/blob/main/documentation/images/9.png" alt="Log Out" caption="Log Out" width="400"></a></p>
 
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/blob/main/documentation/images/10.png" alt="code" caption="code" width="400"></a></p>
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/blob/main/documentation/images/11.png" alt="code" caption="code" width="400"></a></p>
+
 ---
 
 ```bash
