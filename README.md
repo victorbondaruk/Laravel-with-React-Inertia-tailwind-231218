@@ -34,6 +34,11 @@ Generate the unique project identifier
 php artisan key:generate
 ```
 
+Insert tables into database
+```bash
+php artisan migrate
+```
+
 Install dependencies
 ```bash
 composer install && npm install
