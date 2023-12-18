@@ -52,23 +52,23 @@ npm run build
 ---
 
 
-<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/documentation/img/1.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/documentation/img/1.png" width="400"></a></p>
 
-<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/documentation/img/2.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/documentation/img/2.png" width="400"></a></p>
 
-<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/documentation/img/3.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/documentation/img/3.png" width="400"></a></p>
 
-<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/documentation/img/4.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/documentation/img/4.png" width="400"></a></p>
 
-<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/documentation/img/5.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/documentation/img/5.png" width="400"></a></p>
 
-<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/documentation/img/6.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/documentation/img/6.png" width="400"></a></p>
 
-<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/documentation/img/7.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/documentation/img/7.png" width="400"></a></p>
 
-<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/documentation/img/8.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/documentation/img/8.png" width="400"></a></p>
 
-<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/documentation/img/9.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218" target="_blank"><img src="https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218/documentation/img/9.png" width="400"></a></p>
 
 ---
 
