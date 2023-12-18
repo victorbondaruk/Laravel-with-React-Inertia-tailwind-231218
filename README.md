@@ -16,7 +16,7 @@ Laravel 10 & Breeze with React.js, Inertia SSR, Tailwind CSS, PHPUnit
 
 Clone the repository 
 ```bash
-git clone https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218.git && php artisan migrate && npm run dev
+git clone https://github.com/victorbondaruk/Laravel-with-React-Inertia-tailwind-231218.git
 ```
 
 Enter the project directory
